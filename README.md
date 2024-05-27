@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# ***Sobre mi***
+
+## **Nombre**
+Me llamo Kevin Alan Torres Cruz
+
+## **Gustos**
+- Fútbol
+- Videojuegos
+- Programación
+- Idiomas
+- Cocinar
+- Entre otros
