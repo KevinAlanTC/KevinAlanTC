@@ -26,4 +26,4 @@ Me llamo Kevin Alan Torres Cruz
 - Programación
 - Idiomas
 - Cocinar
-- Entre otros
+- Entre otros.
