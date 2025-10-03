@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Kevin Alan Torres Cruz here!
 <!--
 **KevinAlanTC/KevinAlanTC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,16 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ***Sobre mi***
+<!--# ***Sobre mi***-->
 
-## **Nombre**
-Me llamo Kevin Alan Torres Cruz
 
-## **Gustos**
-- Fútbol
-- Videojuegos
-- Programación
-- Idiomas
-- Cocinar
-- Escuchar música
-- Entre otros.
+
